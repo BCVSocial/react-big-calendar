@@ -1,9 +1,12 @@
 {
-  "name": "react-big-calendar",
+  "name": "bcv-react-big-calendar-fork",
   "version": "0.12.3",
   "description": "Calendar! with events",
   "author": "Jason Quense <monastic.panic@gmail.com>",
-  "repository": "intljusticemission/react-big-calendar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BCVSocial/react-big-calendar.git"
+  },
   "license": "MIT",
   "main": "lib/index.js",
   "style": "lib/css/react-big-calendar.css",
